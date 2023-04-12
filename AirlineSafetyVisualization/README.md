@@ -12,7 +12,9 @@ The project aims to visualize airline safety performance using data analysis and
 
 To install the required libraries, run the following command:
 
-$ pip install pandas numpy requests plotly
+```
+pip install pandas numpy requests plotly
+```
 
 ## Dataset:
 
