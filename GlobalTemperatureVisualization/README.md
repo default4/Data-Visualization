@@ -20,3 +20,5 @@ pip install pandas numpy requests plotly
 The dataset used in this project is the Global Temperature Time Series provided by the Berkeley Earth Surface Temperature Study. The dataset can be downloaded directly using the provided URL:
 
 * Global Temperature Time Series Dataset: https://datahub.io/core/global-temp/r/1.csv
+
+![Screenshot](Screenshot_1.png)

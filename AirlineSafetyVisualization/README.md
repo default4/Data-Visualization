@@ -29,3 +29,6 @@ When hovering over a point on the plot, the airline's name will be displayed, al
 Furthermore, a trendline is added to the plot using Ordinary Least Squares (OLS) regression. This trendline helps identify any relationship or pattern between the number of incidents in the two time periods (1985-1999 and 2000-2014).
 
 Overall, this plot provides a visual representation of airline safety performance, enabling users to analyze and compare different airlines based on their safety records over time.
+
+
+![Screenshot](Screenshot_2.png)
